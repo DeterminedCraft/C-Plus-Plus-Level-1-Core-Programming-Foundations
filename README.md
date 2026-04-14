@@ -1,7 +1,7 @@
 # C++ Level 1 – Core Programming Foundations 🧱
 
 **Author:** Ahmad El-Aina | [ahmadelaina@gmail.com](mailto:ahmadelaina@gmail.com)  
-**GitHub:** [https://github.com/aelaina100](https://github.com/aelaina100)
+**GitHub:** [https://github.com/DeterminedCraft](https://github.com/DeterminedCraft)
 
 > 🧠 **Motto:** Divide & Conquer
 
